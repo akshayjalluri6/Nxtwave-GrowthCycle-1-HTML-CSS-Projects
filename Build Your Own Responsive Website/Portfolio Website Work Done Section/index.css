@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: URL("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.icons {
+    font-size: 30px;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.number {
+    color: white;
+    font-size: 40px;
+}
+
+.head {
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+}

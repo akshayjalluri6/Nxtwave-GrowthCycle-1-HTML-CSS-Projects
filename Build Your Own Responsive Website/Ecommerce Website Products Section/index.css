@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    color: #183b56;
+    font-size: 32px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.headphones-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.card-head {
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.card-para {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.button {
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: white;
+    color: #ff9f00;
+    font-size: 15px;
+    border-width: 0px;
+}
+
+.laptop-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.headphones-card {
+    background-color: white;
+    font-family: "Roboto";
+}
+
+.headphones-card-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.headphones-card-pargraph {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.specs {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.button-card {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #323f4b;
+}
