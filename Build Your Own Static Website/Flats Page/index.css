@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-card {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+    padding: 30px;
+}
+
+.home-heading {
+    color: #f19116;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.home-para {
+    color: #7b8794;
+    font-size: 16px;
+    font-family: "Bree Serif";
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 11px;
+    width: 85px;
+    height: 33px;
+    border-width: 0px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.flat-details-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    padding: 15px;
+}
+
+.flat-details-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.flat-image {
+    width: 100px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.flat-details-description {
+    padding: 10px;
+    font-family: "Bree Serif";
+}
+
+.flat-name {
+    color: #0f0e46;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.flat-facilities {
+    color: #6c6b70;
+    font-size: 12px;
+}
+
+.flats-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.flat-detailed-image {
+    height: 35vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.card-detailed {
+    padding: 20px;
+    font-family: "Bree Serif";
+}
+
+.location-image {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.address-para {
+    color: #7b8794;
+    font-size: 12px;
+    margin-top: 10px;
+}

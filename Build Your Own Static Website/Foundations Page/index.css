@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-foundations-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.foundations-card {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 25px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.foundation-heading {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.foundation-para {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.course-container {
+    border-style: solid;
+    width: 125px;
+    height: 100px;
+    padding: 30px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.foundation-image {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.course-name {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
